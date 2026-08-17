@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1uuone.indowin.cfd/sitemap.xml
